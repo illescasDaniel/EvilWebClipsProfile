@@ -8,12 +8,12 @@ Example:
 import Foundation
 
 let myProfile = EvilWebClipsProfile(profileName: "pass2WithIcon",
-										url: "https://www.google.com",
-										alias: "Daniel",
-										clipsCount: 2,
-										password: "1234",
-										iconPath: "/Users/Daniel/Downloads/Icons/1465621530_laptop.png")
+									url: "https://www.google.com",
+									alias: "Daniel",
+									clipsCount: 2,
+									password: "1234",
+									iconPath: "/Users/Daniel/Downloads/Icons/1465621530_laptop.png")
 
-myProfile.save(to: "/Users/Daniel/Desktop")
+myProfile.save()
 
 ```

@@ -53,7 +53,7 @@ class EvilWebClipsProfile {
 		self.iconPath = iconPath
 	}
 	
-	func save(to path: String = "$HOME/Desktop") {
+	func save(to path: String = FileManager.default.homeDirectoryForCurrentUser.appendingPathComponent("Desktop/").path) {
 		
 		repeat {
 			keys.insert(randomID())
