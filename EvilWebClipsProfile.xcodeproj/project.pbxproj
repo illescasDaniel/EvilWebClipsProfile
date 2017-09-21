@@ -24,7 +24,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		65A15A4F1F73F7DD00DA515C /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		65A15A501F73F7DD00DA515C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		65A5BFE81F73E1CC0006DD3F /* EvilWebClipsProfile */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = EvilWebClipsProfile; sourceTree = BUILT_PRODUCTS_DIR; };
 		65A5BFEB1F73E1CC0006DD3F /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
@@ -45,7 +44,6 @@
 		65A15A521F73F8DF00DA515C /* Github */ = {
 			isa = PBXGroup;
 			children = (
-				65A15A4F1F73F7DD00DA515C /* .gitignore */,
 				65A15A501F73F7DD00DA515C /* README.md */,
 			);
 			name = Github;

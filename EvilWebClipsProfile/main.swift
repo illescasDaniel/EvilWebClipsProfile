@@ -6,7 +6,7 @@
 //  Copyright © 2017 Daniel Illescas Romero. All rights reserved.
 //
 
-import AppKit
+import Foundation
 
 let myProfile = EvilWebClipsProfile(profileName: "pass2WithIcon",
                                     url: "https://www.google.com",
